@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Category } from 'src/app/models/category';
 import { CategoryListService } from 'src/app/services/category-list.service';
 
 @Component({
